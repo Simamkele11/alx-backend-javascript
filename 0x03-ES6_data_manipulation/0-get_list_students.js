@@ -6,4 +6,4 @@ function getListStudents() {
   ];
 }
 
-console.log(getListStudents());
+console.log(getListStudents())
